@@ -1,0 +1,17 @@
+C:\Users\jim\source\repos\testes\testes\testes\bin\Debug\netstandard2.0\testes.deps.json
+C:\Users\jim\source\repos\testes\testes\testes\bin\Debug\netstandard2.0\testes.dll
+C:\Users\jim\source\repos\testes\testes\testes\bin\Debug\netstandard2.0\ref\testes.dll
+C:\Users\jim\source\repos\testes\testes\testes\bin\Debug\netstandard2.0\testes.pdb
+C:\Users\jim\source\repos\testes\testes\testes\obj\Debug\netstandard2.0\testes.csproj.AssemblyReference.cache
+C:\Users\jim\source\repos\testes\testes\testes\obj\Debug\netstandard2.0\testes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jim\source\repos\testes\testes\testes\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\jim\source\repos\testes\testes\testes\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+C:\Users\jim\source\repos\testes\testes\testes\obj\Debug\netstandard2.0\testes.AssemblyInfoInputs.cache
+C:\Users\jim\source\repos\testes\testes\testes\obj\Debug\netstandard2.0\testes.AssemblyInfo.cs
+C:\Users\jim\source\repos\testes\testes\testes\obj\Debug\netstandard2.0\testes.csproj.CoreCompileInputs.cache
+C:\Users\jim\source\repos\testes\testes\testes\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\jim\source\repos\testes\testes\testes\obj\Debug\netstandard2.0\testes.dll
+C:\Users\jim\source\repos\testes\testes\testes\obj\Debug\netstandard2.0\ref\testes.dll
+C:\Users\jim\source\repos\testes\testes\testes\obj\Debug\netstandard2.0\testes.pdb
+C:\Users\jim\source\repos\testes\testes\testes\obj\Debug\netstandard2.0\Views\mainpage.xaml.g.cs
+C:\Users\jim\source\repos\testes\testes\testes\obj\Debug\netstandard2.0\Views\deletethis.xaml.g.cs

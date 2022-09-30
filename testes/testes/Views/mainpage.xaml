@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             Background="Blue"
+             x:Class="testes.Views.mainpage">
+
+    <StackLayout>
+
+        <Button x:Name="status" Text="status"
+                Clicked="status_Clicked"
+                />
+        <Label Text="uwu" FontSize ="30" 
+               x:Name="face"
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand" />
+        <Button x:Name="button1" Text="lightswitch"
+            Clicked="button1_Clicked"
+            />
+        <Button x:Name="button2" Text="feed"
+                 Clicked="button2_Clicked"
+                />
+        <Button x:Name="button3" Text="give water"
+                 Clicked="button3_Clicked"
+                />
+        <Button x:Name="button4" Text="play"
+                 Clicked="button4_Clicked"
+                />
+    </StackLayout>
+</ContentPage>
